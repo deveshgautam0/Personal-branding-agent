@@ -1,0 +1,5 @@
+- [ ] Update package.json to add "type": "module"
+- [ ] Create data.json initialized as {}
+- [ ] Create index.js script that generates 1700 backdated commits with realistic distribution and pushes once
+- [ ] Verify script meets checklist (ordering, env vars, single push, progress logging, safe file writes)
+- [ ] Provide exact commands to install deps and run the script
